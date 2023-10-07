@@ -1,1 +1,1 @@
-# techmologia-programowania
+# technologia-programowania
